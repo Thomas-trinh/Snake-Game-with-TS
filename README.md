@@ -34,23 +34,8 @@ ts-node snake.ts
 
 ## Expected outcome
 
-####################################################
-#                                                  #
-#                                                  #
-#                                                  #
-#                                                  #
-#                                                  #
-#                                                  #
-#                                                  #
-#0ooooooo                                          #
-#                                                  #
-#                                                  #
-#                                     *            #
-#                                                  #
-#                                                  #
-#                                                  #
-#                                                  #
-####################################################
-Score: 120
-Game Over!
+                 
+!<img width="395" alt="Screen Shot 2025-05-18 at 15 39 32" src="https://github.com/user-attachments/assets/75b4a881-e9a3-4715-8e36-4cb0aed967ad" />
+
+Press A,S,W,D for moving the snake
 
