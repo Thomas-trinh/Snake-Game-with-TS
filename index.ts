@@ -182,7 +182,7 @@ class Game {
             if (tail.some(part => part.x === head.x && part.y === head.y)) {
                 gameOver = true;
             }
-
+ 
             if (this.snake.eat(this.food)) {
                 this.snake.snakeLength++;
                 this.generateFood();
